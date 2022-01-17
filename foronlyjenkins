@@ -1,0 +1,11 @@
+Git clone url		--		cloneing with url
+Git add .			--		after changes git add
+Git commit –m “comit msg”	commit msg
+Git push			--		pushing to central repo
+Username			--		swamyborra
+Password			--		your token creating in github
+Ls –la			--		hidden files 
+Git log			--		how many times u committed
+Git status			--		current where u r
+Git branch –a		--		which branch u r
+Git show commitid	--		what u do in 
